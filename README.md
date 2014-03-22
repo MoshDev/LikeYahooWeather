@@ -12,5 +12,5 @@ Snapshots
 
 
 
-  [1]:http://i.imgur.com/9Z3BrWc.png
-  [2]:http://i.imgur.com/0PxQuIU.png
+  [1]:http://i.imgur.com/9Z3BrWc.png?1
+  [2]:http://i.imgur.com/0PxQuIU.png?1
