@@ -7,7 +7,7 @@ This is a sample shows list view with blur effect similar to Yahoo Weather App
 Snapshots
 ================
 
-![Sample image1][1] . ![Sample image2][2]
+![Sample image1][1] ![Sample image2][2]
 
 
 
